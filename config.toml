@@ -1,6 +1,9 @@
 baseURL = 'https://takle-mamo.com/'
 languageCode = 'en-us'
-title = 'Takle Mamo'
+title = 'Takle mamo'
 theme = 'ananke'
 
 paginate = '10' # Number of posts per page
+
+[params]
+  featured_image = "/images/featured.gif"
