@@ -54,6 +54,10 @@ enableRobotsTXT = true
     desktopMode = "fixed"
     # mobile header mode ("fixed", "normal", "auto")
     mobileMode = "auto"
+    [params.header.title]
+      name = "Takle mamo"
+      typeit = false
+      rss = true
 
   [params.footer]
     copyright = true
@@ -136,3 +140,10 @@ enableRobotsTXT = true
 
 [sitemap]
   changefreq = "weekly"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
