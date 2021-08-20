@@ -1,8 +1,13 @@
 ---
 title: "Najprej štal'ca, pol pa krav'ca"
 date: 2021-08-15T15:29:36+02:00
-featured_image: 'images/ask-me-one-more-time-when-im-having-kids.jpg'
-featured_image_caption: ''
+summary: "Z zgodbo o IVF in neplodnosti je najbolje začeti na začetku, saj se tam znajdemo vsi in se
+boste tako najlažje vživeli."
+resources:
+- name: "featured-image"
+  src: "ask-me-one-more-time-when-im-having-kids.jpg"
+
+categories: ["IVF"]
 ---
 **Begin at the beginning and go on till you come to the end; then stop.** *Lewis Carroll*
 

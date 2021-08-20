@@ -1,7 +1,14 @@
 ---
 title: "Prvi sklop formalnosti"
 date: 2021-08-19T20:08:06+02:00
-featured_image: 'images/lets-see-what-happens-when-you-take-these-pills.png'
+summary: "Po enem letu neuspehov se oglasim pri ginekologu ..."
+resources:
+- name: "featured-image"
+  src: "lets-see-what-happens-when-you-take-these-pills.png"
+- name: "featured-image-preview"
+  src: "featured-image-preview.png"
+
+categories: ["IVF"]
 ---
 
 **Hope is independent of the apparatus of logic.** *Norman Cousins*
